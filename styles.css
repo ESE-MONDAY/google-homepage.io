@@ -20,7 +20,7 @@ nav img{
 }
 main{
     width: 50%;
-    margin:8.6em auto;
+    margin:9em auto;
     text-align: center;
     font-size: large;
 }
@@ -62,6 +62,9 @@ input:focus{
 footer{
     background-color: rgb(175, 170, 170);
     margin: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 
 }
 .footer-top{
